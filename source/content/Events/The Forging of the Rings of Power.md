@@ -1,0 +1,4 @@
+Event
+The Rings were forged in the Second age in Eregion, an Elven realm neighboring Moria. The [[High Elves]] were decieved by Sauron as he disguised himself as Annatar and instructed them in the art of ring-lore. Seven rings were given to the Dwarf-lords. Notably, one went to [[Durin's Folk]] in Khazad-dûm. This made them wealthy but far more greedy. Three rings were secretly forged by the [[High Elves]], but upon the revealing of the One Ring, the Elves refused to use them. This refusal lead to a war between the Elves and Sauron, which ended with the destruction of Eregion and the closing of Moria, as well as the fading of the Elves.
+
+**Citations:** _The Fellowship of the Ring_, Book 1, Ch. 2: The Shadow of the Past (p. 50-52); Book 2, Ch. 2: The Council of Elrond (p. 242-244).

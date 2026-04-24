@@ -1,0 +1,7 @@
+Race
+
+Hobbits' exact origins are long forgotten, but are known to be somehow related to Men. They originally lived in the upper vales of Anduin before beginning a great migration westward known as [[The Wandering Days]]. They eventually crossed the Misty Mountains and settled in Eriador, mainly in Bree and later the land granted to them during [[The Founding of the Shire]]. They have since lived in isolation and peace, largely forgotten or ignored by the "Big Folk" of Middle-earth, at least until the finding of the One Ring.
+
+Hobbits are small, typically ranging from two to four feet tall. It is for this reason that they are often called "Halflings". They love peace and quiet, many good meals, and tend to hate machinery (at least ones more complicated than a mill or forge-bellows). They are very nimble, with great eyesight and hearing, and they hardly ever wear shoes thanks to their tough soles and the thick hair on their feet. Before breaking into the various families that sprouted after moving into the Shire, like the Brandybucks or Bagginses, they were split into three groups: the [[Harfoots]], [[Stoors]], and [[Fallohides]].
+
+**Citations:** _The Fellowship of the Ring_, Prologue: 1. Concerning Hobbits (p. 1-10).

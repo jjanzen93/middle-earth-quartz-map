@@ -1,0 +1,6 @@
+Event
+The Shire was founded in the year 1601 of the Third Age, which became year 1 of the Shire Reckoning (S.R.). This was led by Marcho and Blanco Fallohide, who got a great number of Hobbits in Bree. They received permission from the High King of the [[Dúnedain]] to cross the river Baranduin, later known as the Brandywine. The land was fertile and long since abandoned as the old hunting ground of Numenorean kings. As long as they maintained the roads and bridges, as well as acknowledge the King's rule, they were entitled to the land.
+
+The [[Harfoots]] made up the majority of the settlers, hence the importance of agriculture in the Shire and the habit of living in holes, but early leaders were [[Fallohides]]. Most of the remaining [[Stoors]] joined in later, settling in the marshes. Now that they had this boundary, Hobbits became isolationist, keeping out of all conflicts as best they could by just staying behind their borders.
+
+**Citations:** _The Fellowship of the Ring_, Prologue: 1. Concerning Hobbits (p. 4-5).

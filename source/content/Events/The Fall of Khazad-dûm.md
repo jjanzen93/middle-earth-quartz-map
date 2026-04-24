@@ -1,0 +1,4 @@
+Event
+As the [[Durin's Folk]] mined too greedily for mithril beneath Caradhras, a Balrog was awakened that had been hidden since the First Age. King Durin VI was killed, followed by his son. The surviving Dwarves fled, and the nearby [[Silvan Elves]] ran south away from the mines. The gates were shut, and eventually Moria became inhabited by Orcs sent by Sauron, as well as the Balrog. [[Durin's Folk]] were left to wander in exile, eventually taking up residence in the Lonely Mountain.
+
+**Citations:** _The Fellowship of the Ring_, Book 2, Ch. 4: A Journey in the Dark (p. 315-323); Book 2, Ch. 6: Lothlórien (p. 339-344).
