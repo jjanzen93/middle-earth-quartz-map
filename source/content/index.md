@@ -1,5 +1,8 @@
 Events:
 [[Balin's Expedition]]
+[[The Battle of Helm's Deep]]
+[[The Battle of the Field of Celebrant]]
+[[The Destruction of Isengard]]
 [[The Fall of Khazad-dûm]]
 [[The Forging of the Rings of Power]]
 [[The Founding of the Shire]]
@@ -14,11 +17,16 @@ Peoples:
 [[Harfoots]]
 [[Stoors]]
 [[Dúnedain]]
+[[Dunlendings]]
 [[Men of Gondor]]
-[[Rohirrim]]
+[[Men of Rohan]]
+[[Uruk-hai]]
 
 Races:
 [[Dwarves]]
 [[Elves]]
+[[Ents]]
 [[Hobbits]]
+[[Huorns]]
 [[Men]]
+[[Orcs]]

@@ -4,3 +4,4 @@ Some years before the *Lord of the Rings*, Balin, Oin, Ori, and many [[Durin's F
 Seeing as they were dead, they did not do a very good job at recordkeeping, as this story is only pieced together with fragments of parchment that Gandalf is able to find while that same group of Orcs is on their way to ruin the Fellowship's day.
 
 **Citations:** _The Fellowship of the Ring_, Book 2, Ch. 2: The Council of Elrond (p. 240-241); Book 2, Ch. 5: The Bridge of Khazad-dûm (p. 320-323).
+

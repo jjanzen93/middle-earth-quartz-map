@@ -4,4 +4,6 @@ The Dúnedain are descendants of the Men of Westernesse (Númenor) who survived 
 
 They are unusually tall with dark hair, pale skin, and grey eyes. They live longer lives than ordinary men, and are the greatest trackers and hunters in Middle-earth. In other words, they shop at Hot Topic and have a very standard-fare D&D character tragic backstory.
 
-**Citations:** _The Fellowship of the Ring_, Book 1, Ch. 10: Strider (p. 169-172); Book 2, Ch. 2: The Council of Elrond (p. 242-247).
+Their mystical nature also means that they have a presence that demands respect or fear. In Aragorn's case, people can almost see the might of his lineage standing with him when he reveals it, which causes Eomer to respect him immediately.
+
+**Citations:** _The Fellowship of the Ring_, Book 1, Ch. 10: Strider (p. 169-172); Book 2, Ch. 2: The Council of Elrond (p. 242-247), _The Two Towers_, Book 3, Ch. 2: The Riders of Rohan (p. 433-434)

@@ -1,6 +1,6 @@
 Race
-Dwarves were created deep under the mountains. Over the ages, they built massive underground kingdoms, like Khazad-dûm. After [[The Forging of the Rings of Power]], they recieved seven Rings from Sauron. These failed to dominate them as intended by their creator, but did make them greedier.
+Dwarves were created deep under the mountains. Over the ages, they built massive underground kingdoms, like Khazad-dûm. After [[The Forging of the Rings of Power]], they recieved seven Rings from Sauron. These failed to dominate them as intended by their creator, but did make them greedier. Despite their greed, they possess a deep and poetic appreciation for natural stone, and seek to carefully accentuate this beauty instead of overpowering it to build their mountainous kingdoms.
 
-In terms of appearances, all Dwarves have beards, are short, stocky, and broad-shouldered. They are very sheltered, with the only Dwarves to be on good terms with the rest of Middle-earth being [[Durin's Folk]]. They are exceptional miners, and are generally very resilient.
+In terms of appearances, all Dwarves have beards, are short, stocky, and broad-shouldered. They are very sheltered, with the only Dwarves to be on good terms with the rest of Middle-earth being [[Durin's Folk]]. They are exceptional miners, and are generally very resilient, being able to move consistently and quickly over long distances.
 
-**Citations:** _The Fellowship of the Ring_, Book 2, Ch. 2: The Council of Elrond (p. 239-241); Book 2, Ch. 4: A Journey in the Dark (p. 311).
+**Citations:** _The Fellowship of the Ring_, Book 2, Ch. 2: The Council of Elrond (p. 239-241); Book 2, Ch. 4: A Journey in the Dark (p. 311). *The Two Towers*, Book 3, Ch. 8: The Road to Isengard (p. 547-548).
